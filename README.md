@@ -2,6 +2,9 @@
 
 Bu proje, giyim ürünlerini sınıflandırmak için derin öğrenme tekniklerini kullanmaktadır. Model, Fashion MNIST veri seti kullanılarak geliştirilmiştir.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 🔗 Kaggle Veri Seti
 [Fashion MNIST](https://www.kaggle.com/competitions/fashion-mnist)
 
